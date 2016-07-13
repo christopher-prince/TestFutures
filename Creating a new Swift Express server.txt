@@ -1,0 +1,7 @@
+Creating a new Swift Express server
+
+Do basic installations:
+https://github.com/crossroadlabs/Express/#installation
+
+Then, follow "Getting Started"
+https://github.com/crossroadlabs/Express/
